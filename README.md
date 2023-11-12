@@ -5,9 +5,9 @@
 <b>HTML, CSS, Javascript, React </b>
 
 <h2> People who've helped me learn:</h2>
- <a href="https://www.shecodes.io/"> - SheCodes.io </a>
+ <a href="https://www.shecodes.io/"> SheCodes.io </a>
 <br>
- <a href="https://www.youtube.com/@learnwithleon"> - Learn with Leon </a>  
+ <a href="https://www.youtube.com/@learnwithleon"> Learn with Leon </a>  
 <p>#100 Devs💞️</p>
 
 <h2> Here is a list of my projects:</h2>
