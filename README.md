@@ -1,7 +1,8 @@
 <h1> 👋🏾 Hi, I’m Lauren a software developer 👩🏾‍💻 from Memphis,TN.</h1>
 <h2> About Me </h2>
 <p> Hey ya'll! I am currently transitioning from healthcare to tech. While working through the pandemic, I realized that I could no longer mentally or physically be a respiratory therapist. After coming to that relization I decided to take some time off to figure out what I wanted to do next. On my career break I started studying to become a software developer. </p>
-
+<h2>Languages:</h2>
+<p>HTML, CSS, Javascript, React </p>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning react
