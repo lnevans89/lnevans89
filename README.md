@@ -1,6 +1,12 @@
 <h1> 👋🏾 Hi, I’m Lauren a software developer 👩🏾‍💻.</h1>
 <h2> About Me: </h2>
-<p> Hey ya'll! I am software developer who is transitioning from healthcare to tech. While working through the pandemic, I realized that I could no longer mentally or physically be a respiratory therapist. After coming to that relization I decided to take some time off to figure out what I wanted to do next. On my career break I started studying to become a software developer. So far I am totally enamored with software development and being able to see my code turn into funcitonal projects.</p>
+   <p>
+             With over seven years of experience as a respiratory therapist, I’ve had the privilege of working on the front lines of healthcare, delivering critical care and support to patients. This journey has honed my ability to remain calm under pressure, solve complex problems, and work collaboratively with a diverse team of professionals.</p>
+			
+ <p>Today, I’ve transitioned these skills into the tech world as a full stack software developer. I’m passionate about creating seamless, user-friendly applications and leveraging technology to improve lives. My unique background allows me to bring a fresh perspective to development, combining technical expertise with a deep understanding of patient and user needs.</p>
+
+<p>I enjoy staying active, learning new technologies, and exploring innovative solutions that bridge the gap between healthcare and technology. Outside of coding, I love to traveling to expolre new cultures and spending time in nature and making new memories with my family and friends.</p>
+
 <h2>Languages:</h2>
 <b>HTML, CSS, Javascript, React </b>
 
