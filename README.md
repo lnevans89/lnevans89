@@ -5,7 +5,7 @@
 			
  <p>Today, I’ve transitioned these skills into the tech world as a full stack software developer. I’m passionate about creating seamless, user-friendly applications and leveraging technology to improve lives. My unique background allows me to bring a fresh perspective to development, combining technical expertise with a deep understanding of patient and user needs.</p>
 
-<p>I enjoy staying active, learning new technologies, and exploring innovative solutions that bridge the gap between healthcare and technology. Outside of coding, I love to traveling to expolre new cultures and spending time in nature and making new memories with my family and friends.</p>
+<p>I enjoy staying active, learning new technologies, and exploring innovative solutions that bridge the gap between healthcare and technology. Outside of coding, I love to traveling to explore new cultures and spending time in nature and making new memories with my family and friends.</p>
 
 <h2>Languages:</h2>
 <b>HTML, CSS, Javascript, React </b>
