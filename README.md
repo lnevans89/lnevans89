@@ -7,14 +7,8 @@
 
 <p>I enjoy staying active, learning new technologies, and exploring innovative solutions that bridge the gap between healthcare and technology. Outside of coding, I love traveling to explore new cultures, spending time in nature and making new memories with my family and friends.</p>
 
-<h2>Languages:</h2>
-<b>HTML, CSS, Javascript, React </b>
-
-<h2> People who've helped me learn:</h2>
- <a href="https://www.shecodes.io/"> SheCodes.io </a>
-<br>
- <a href="https://www.youtube.com/@learnwithleon"> Learn with Leon </a>  
-<p>#100 Devs💞️</p>
+<h2>Things I Know!</h2>
+<b>HTML, CSS, Javascript, SQL, Python, Node.js, MongoDB, Rest APIs, EJS </b>
  
 <h2> Contact Me:</h2>
 <p> Let's work on some projects together! 😊</p>
